@@ -1,0 +1,10 @@
+C:\Users\ucenik\source\repos\timerApp\bin\Debug\timerApp.exe.config
+C:\Users\ucenik\source\repos\timerApp\bin\Debug\timerApp.exe
+C:\Users\ucenik\source\repos\timerApp\bin\Debug\timerApp.pdb
+C:\Users\ucenik\source\repos\timerApp\obj\Debug\timerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\timerApp\obj\Debug\timerApp.Form1.resources
+C:\Users\ucenik\source\repos\timerApp\obj\Debug\timerApp.Properties.Resources.resources
+C:\Users\ucenik\source\repos\timerApp\obj\Debug\timerApp.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\timerApp\obj\Debug\timerApp.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\timerApp\obj\Debug\timerApp.exe
+C:\Users\ucenik\source\repos\timerApp\obj\Debug\timerApp.pdb
